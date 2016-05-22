@@ -1,4 +1,4 @@
-page{
+page {
   includeCSS {
     main = EXT:vs_bootstrap3/Resources/Public/css/main.min.css
   }

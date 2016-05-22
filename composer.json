@@ -8,7 +8,7 @@
     "support": {
         "issues": "https://github.com/moonCrawler/vs_bootstrap3/issues"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
 
     "require": {
       "composer/installers": "*"
