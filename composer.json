@@ -1,0 +1,12 @@
+{
+    "name": "vs/bootstrap3",
+    "type": "typo3-cms-extension",
+    "description": "Add all Bootstrap 3 Dependencies for Frontend",
+    "homepage": "https://github.com/moonCrawler/vs_bootstrap3",
+    "license": ["GPL-2.0+"],
+    "keywords": ["TYPO3 CMS", "Bootstrap"],
+    "support": {
+        "issues": "https://github.com/moonCrawler/vs_bootstrap3/issues"
+    },
+    "version": "1.0.0"
+}
