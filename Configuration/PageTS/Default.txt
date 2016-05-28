@@ -1,0 +1,6 @@
+RTE {
+  default {
+    contentCSS = EXT:vs_bootstrap3/Resources/Public/css/main.css
+    useCSS = 1
+  }
+}
