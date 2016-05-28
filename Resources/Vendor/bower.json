@@ -1,0 +1,14 @@
+{
+  "name": "vs_bootstrap3",
+  "description": "Add all Bootstrap 3 Dependencies for Frontend",
+  "main": "",
+  "authors": [
+    "Vlad Stawizki <vlad.stawizki@gmail.com>"
+  ],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/moonCrawler/vs_bootstrap3",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
